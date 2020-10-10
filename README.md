@@ -1,9 +1,10 @@
 # hello-world
 First repository 
-*Import required third party library to your Python 
+
+* Import required third party library to your Python 
 IDE.  
 
-*Get the HTML source code from the request library.
+* Get the HTML source code from the request library.
 To get the source code from the web page we have to 
 use request library.
 We have to write a code for this.
